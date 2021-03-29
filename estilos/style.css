@@ -1,16 +1,18 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
+    color: rgba(71, 32, 77, 0.979);
     font-size: 18px;
+    
 }
 
 body {
-    background-color: aquamarine;
+    background-color: rgba(93, 199, 164, 0.925);
 }
 
 main {
-    background-color: whitesmoke;
+    background-color: rgba(242, 210, 250, 0.699);
     width: 700px;
     margin: auto;
-    padding: 10px;
-    box-shadow: 3px 3px 5 px rgba(0, 0, 0, 0.473);
+    padding: 25px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
